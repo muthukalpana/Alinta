@@ -1,0 +1,54 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Home /> should render a <Home /> 1`] = `
+<div>
+  <div
+    class="sc-jrAFXE gfIxsg"
+  >
+    <div
+      class="sc-kEjbQP ilsxlf"
+    >
+       Add Customer 
+    </div>
+    <svg
+      fill="none"
+      height="1em"
+      stroke="currentColor"
+      stroke-linecap="round"
+      stroke-linejoin="round"
+      stroke-width="2"
+      viewBox="0 0 24 24"
+      width="1em"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <polyline
+        points="6 9 12 15 18 9"
+      />
+    </svg>
+  </div>
+  <div
+    class="sc-jrAFXE gfIxsg"
+  >
+    <div
+      class="sc-kEjbQP ilsxlf"
+    >
+       Customers 
+    </div>
+    <svg
+      fill="none"
+      height="1em"
+      stroke="currentColor"
+      stroke-linecap="round"
+      stroke-linejoin="round"
+      stroke-width="2"
+      viewBox="0 0 24 24"
+      width="1em"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <polyline
+        points="6 9 12 15 18 9"
+      />
+    </svg>
+  </div>
+</div>
+`;

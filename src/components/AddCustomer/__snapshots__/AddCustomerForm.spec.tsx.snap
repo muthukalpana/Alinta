@@ -1,0 +1,64 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<AddCustomerForm /> should render a <AddCustomerForm /> 1`] = `
+<div>
+  <form
+    action="#"
+    class="sc-bdfBQB IjRdz"
+  >
+    <label
+      class="sc-gsTEea ksWhXL"
+      for="firstName"
+    >
+      First Name
+    </label>
+    <input
+      class="sc-dlfnuX eytFzo"
+      id="firstName"
+      name="firstName"
+      placeholder="John"
+      value=""
+    />
+    <label
+      class="sc-gsTEea ksWhXL"
+      for="lastName"
+    >
+      Last Name
+    </label>
+    <input
+      class="sc-dlfnuX eytFzo"
+      id="lastName"
+      name="lastName"
+      placeholder="Doe"
+      value=""
+    />
+    <label
+      class="sc-eCstlR limRGo"
+    />
+    <label
+      class="sc-gsTEea ksWhXL"
+      for="phoneNumber"
+    >
+      Phone Number
+    </label>
+    <input
+      class="sc-dlfnuX eytFzo"
+      id="phoneNumber"
+      name="phoneNumber"
+      placeholder="Enter number"
+      type="tel"
+      value=""
+    />
+    <label
+      class="sc-eCstlR limRGo"
+    />
+    <button
+      class="sc-hKgJUU bAjZNY"
+      disabled=""
+      type="submit"
+    >
+      Add Customer
+    </button>
+  </form>
+</div>
+`;
